@@ -8,4 +8,4 @@
 
 webpack 学习之路
 
------[an example](https://segmentfault.com/n/1330000011276768?token=aa5413935ba0e9001e70dba4dc471399"webpack 学习之路 笔记")
+[an example](https://segmentfault.com/n/1330000011276768?token=aa5413935ba0e9001e70dba4dc471399"webpack 学习之路 笔记")
